@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leandro Munoz</h1>
 <h3 align="center">A passionate web developer from Miami, Florida</h3>
 
-- 🔭 I’m currently working on [CIET](https://github.com/leamuno/CIET)
+- 🔭 I’m currently working on [CIET](https://ciet-mvp-2704dae8ded8.herokuapp.com/)
 
 - 🌱 I’m currently learning **with help from Boot.Dev**
 
