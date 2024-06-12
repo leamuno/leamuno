@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **with help from Boot.Dev**
 
-- 👨‍💻 All of my projects are available at [leandro-munoz.me](leandro-munoz.me)
+- 👨‍💻 All of my projects are available at [leandro-munoz.me](https://leandro-munoz.me)
 
 - 📫 How to reach me **leandro.munozjr@gmail.com**
 
