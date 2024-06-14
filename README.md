@@ -1,4 +1,4 @@
-<img align="right" src="https://www.codewars.com/users/leamuno/badges/micro](https://www.codewars.com/users/leamuno/badges/large"/>
+<img align="right" src="https://www.codewars.com/users/leamuno/badges/large"/>
 <h1 align="center">Hi 👋, I'm Leandro Munoz</h1>
 <h3 align="center">A passionate web developer from Miami, Florida</h3>
 
