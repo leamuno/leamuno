@@ -1,7 +1,7 @@
 <img align="right" src="https://www.codewars.com/users/leamuno/badges/large"/>
 <br>
 <h1 align="center">Hi 👋, I'm Leandro Munoz</h1>
-<h3 align="center">A passionate web developer from Miami, Florida who is living in Japan.</h3>
+<h3 align="center">A passionate web developer from Miami, Florida who is currently living in Tokyo, Japan.</h3>
 
 - 🔭 I’m currently working on [CIET](https://ciet-mvp-2704dae8ded8.herokuapp.com/)
 
